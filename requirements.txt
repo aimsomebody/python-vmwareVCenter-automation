@@ -1,0 +1,7 @@
+// Delete comments before installin' packages
+argparse
+pyvmomi>=v6.5.0.2017.5-1        //Object Management Infrastructure
+requests  HTTP requests
+suds>=0.4,<0.7 ; python_version < '3' //Web service client for Python
+suds-jurko ; python_version >= '3.0'
+vcrpy>=1.1.1  HTTP requests
