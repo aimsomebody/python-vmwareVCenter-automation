@@ -1,7 +1,7 @@
 # BASIC  
 ho = '192.168.0.117'
 us = 'administrator@vsphere.local'
-password = 'elma1997!Ea'
+password = 'password'
 
 #VM state off on suspend resume  Host State
 vm_name='FreeBSD-003'
